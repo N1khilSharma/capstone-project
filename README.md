@@ -40,11 +40,13 @@ I picked this project because it challenged me to bring together everything I le
 I plan to excecute these steps to complete my project.
 
 - [DONE] Step 1 Set all the required keys and create necessary pdfs for RAG.
-- [TODO] Step 2 Parse through the Resume pick up the relevant details add human-in-the-loop for specific locational search and store it in a state to forward for searching.
-- [TODO] Step 3 Return the unstructured result form Tavily into the LLM and give a formatted output with links for the applications.
-- [TODO] Step 4 Integrate Langchain into the workflow to trace and debug.
-- [TODO] Step 5 Polish the formatting for the output and add Documentation for future legibility.
-- [TODO] Step 6 Test the full pipeline with multiple resumes and finalize.
+- [TODO] Step 2 Parse through the Resume pick up the relevant details.
+- [TODO] Step 3 Pass the result to Tavily for a structured query , add Human-in-the-loop to search for specific location for the relevant skill set of the candidate.
+- [TODO] Step 4 Get the information from the Tavily search and put it into the LLM to properly format and display the details of the job where the candidate is a good fit.
+- [TODO] Step 5 Give advice to the candidate on the topics they can focus on or add to their resume to further increase eligibility and options for jobs.
+- [TODO] Step 6 Integrate all the steps together and implement Langchain into the workflow to trace and debug.
+- [TODO] Step 7 Polish the formatting for the output and add Documentation for future legibility.
+- [TODO] Step 8 Test the full pipeline with multiple resumes and finalize.
 
 ## Conclusion:
 
