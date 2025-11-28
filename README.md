@@ -39,7 +39,7 @@ I picked this project because it challenged me to bring together everything I le
 
 I plan to excecute these steps to complete my project.
 
-- [TODO] Step 1 Set all the required keys and create necessary pdfs for RAG.
+- [DONE] Step 1 Set all the required keys and create necessary pdfs for RAG.
 - [TODO] Step 2 Parse through the Resume pick up the relevant details add human-in-the-loop for specific locational search and store it in a state to forward for searching.
 - [TODO] Step 3 Return the unstructured result form Tavily into the LLM and give a formatted output with links for the applications.
 - [TODO] Step 4 Integrate Langchain into the workflow to trace and debug.
