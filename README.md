@@ -44,8 +44,8 @@ I plan to excecute these steps to complete my project.
 - [DONE] Step 3 Pass the result to Tavily for a structured query , add Human-in-the-loop to search for specific location for the relevant skill set of the candidate.
 - [DONE] Step 4 Get the information from the Tavily search and put it into the LLM to properly format and display the details of the job where the candidate is a good fit.
 - [DONE] Step 5 Give advice to the candidate on the topics they can focus on or add to their resume to further increase eligibility and options for jobs.
-- [TODO] Step 6 Integrate all the steps together and implement Langchain into the workflow to trace and debug.
-- [TODO] Step 7 Polish the formatting for the output and add Documentation for future legibility.
+- [DONE] Step 6 Integrate all the steps together and implement Langchain into the workflow to trace and debug.
+- [DONE] Step 7 Polish the formatting for the output and add Documentation for future legibility.
 - [TODO] Step 8 Test the full pipeline with multiple resumes and finalize.
 
 ## Conclusion:
